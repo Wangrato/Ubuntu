@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\arm\bin\armjlink2.dll" 
+
+"D:\FNXP\龙湫科技\OLED版本\LQ_KEA_OLED版本\3.龙邱提供的测试例程\LQ_KEAZ128_MDK_demo第三版20171205\LQ_KEAZ128_IAR_demo第三版20171123\LQ_KEAZ128_IAR_demo\Release\Exe\LQ.out" 
+
+--plugin "E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "E:\IAR\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
